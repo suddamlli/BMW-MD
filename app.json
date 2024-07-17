@@ -1,5 +1,5 @@
 {
-  "name":"V-6-BMW-XMD",
+  "name":"V-6-ANNSUN-Y",
   "description":"Deploy now your bot, Bmw was developed by Ibrahim Adams.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/fd124f7e9271111c3bcc1.jpg",
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "Annsun-y"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254739937062,254710772666"
+    "value": "94766687628,94766687628"
   },
     "WARN_COUNT":
   {
@@ -105,7 +105,7 @@
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
     "value": "no",
-    "required": false
+    "required": true
   }
   },
 
